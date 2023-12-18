@@ -1,13 +1,16 @@
 @charset "UTF-8";
 
-
+/*background stuff*/
  body {
-    color: rgb(245, 245, 245) ;
     background-color: rgb(32,32,32);
 }
 
-div.button{
+/*door setting*/
+div.button a{
+    color: rgb(245, 245, 245) ;
     background-color: red;
     margin: 200px;
     width: 75px;
+    cursor: help;
+    text-decoration: none;
 }
