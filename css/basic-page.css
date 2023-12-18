@@ -6,7 +6,7 @@
     background-color: rgb(32,32,32);
 }
 
-article > div{
+div.button{
     background-color: red;
     margin: 200px;
     width: 75px;
