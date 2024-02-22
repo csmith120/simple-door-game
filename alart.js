@@ -1,1 +1,1 @@
-alert("u lose");
+let.onload = alert("u lose");
