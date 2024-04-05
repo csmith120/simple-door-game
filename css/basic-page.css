@@ -13,11 +13,15 @@
 }
 
 /*door setting*/
+div {
+    margin: auto;
+    height: auto;
+    width: 600px;
+}
+
 div.button a{
     color: red;
     font-size: 20px;
-    margin-left: 200px;
-    margin-top: 300px;
     width: 75px;
     cursor: help;
     text-decoration: none;
@@ -29,7 +33,8 @@ div.button-dead a{
     color: red;
     margin-left: 200px;
     margin-top: 300px;
-    width: 75px;
+    text-align: center;
+    width: 500px;
     cursor: help;
     text-decoration: none;
 }
@@ -38,7 +43,17 @@ div.button-hidden a{
     font-family: "Yarndings 12", system-ui;
     color: rgb(32,32,32);
     font-size: 20px;
-    margin: 600px;
+    padding: 800px;
+    margin: 30px;
     cursor: help;
     text-decoration: none;
+}
+
+p.death {
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    width: 500px;
+    font-family: "Creepster", system-ui;
 }

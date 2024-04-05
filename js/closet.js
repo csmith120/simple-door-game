@@ -1,5 +1,5 @@
 window.onload = function(){
-    alert("dead man walk home and try again")
+    alert("well thats odd????")
 };
 
 console.log("%cnow what are you looking at",
